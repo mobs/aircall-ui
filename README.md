@@ -26,11 +26,11 @@ To give you an idea, here's what our app looks like:
 
 ## Installation
 
-We're using [yarn](https://yarnpkg.com) here (but you can use npm):
+We're using [npm] here (but you can use yarn as well):
 
 ```
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 ## API documentation
